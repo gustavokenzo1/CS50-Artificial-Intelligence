@@ -1,3 +1,5 @@
+# Resumo da Aula 0: Search
+
 Result: picks a state, and returns this state after executing some action
 
 State space: set of all states reachable from the initial state by any sequence of actions
