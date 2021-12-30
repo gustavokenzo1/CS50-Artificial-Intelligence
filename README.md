@@ -17,3 +17,5 @@ The goal of this repo is to store projects and notes from CS50AI, Harvard Univer
   - Alpha-Beta Pruning
   - Depth-Limited Minimax
   - Evaluation function
+  
+### Kinda tired of writing here lol 
